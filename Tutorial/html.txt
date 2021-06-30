@@ -1,0 +1,37 @@
+parametros angulares => abertura  < > e fechamento </ >
+conteúdo => escrito entre os parâmetros angulares
+elemtno => tag de abertura + conteúdo + tag de fechamento
+atributos => condições extras dentro de um parametro angular
+valor atribuido => é objetivo de um atributo
+elementos vazios => não tem conteúdo, só tem tag de abertura
+
+Atributo padrão:
+<paramentrodeabertura atributo="valoratribuido"> conteúdo</parametrodefechamento>
+
+Aninhamento:
+Colocar elementos dentro de outros elementos
+Se abrir uma tag tem que fechar ela, igual o <p> Meu gatinho é muito <strong>mal</strong> humorado </p>
+
+Marcando texto:
+   Cabeçalhos:
+   6 niveís de título:
+    <h1>Título principal</h1>
+    <h2>Título de alto nível</h2>
+    <h3>Subtítulo</h3>
+    <h4>Segundo subtítulo</h4>
+    <h5></h5>
+    <h6></h6>
+
+<p></p>: especifica parágrafo
+<strong></strong>: deixa em negrito
+<img src="linkdeacesso" alt="textodrescritivopracegover">: incorporar imagem, não tem tag de fechamento
+<!DOCTYPE html>: é necessário para que o documento se comporte de forma corretamente
+<html></html>: elemento raiz, envolve todos os elementos do código
+<head></head>: tudo que quer incluir en não é conteúdo, envolve palavras chaves ou descrição. Pode ter CSS pra dar estilo
+<meta charset="utf-8">: conjunto de caracteres utilizado pelo documento, manipular qualquer conteúdo textual
+<title></title>: título que aparece na página de navegador, descrever página adiconada como favorito
+<body></body>: conteúdo mostrado na página (imagens, títulos, jogos áudio etc)
+
+
+
+
